@@ -1520,7 +1520,7 @@
 		blacklists: {
 			NSFW: null,
 			OP: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/OPlist.json",
-			BANNED: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/BANNEDlist.json"
+			BANNED: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/BANNEDlist.json"
 		}
 	};
 	settings.intervalMessages.push('Join us on discord ! '+settings.discordLink);
