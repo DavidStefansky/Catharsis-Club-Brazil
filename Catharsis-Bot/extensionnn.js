@@ -1526,5 +1526,5 @@
 	settings.intervalMessages.push('Join us on discord ! '+settings.discordLink);
 	localStorage.setItem('basicBotsettings', JSON.stringify(settings));
 
-	$.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/basicBot.js", extend);
+	$.getScript("hhttps://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/basicBot.js", extend);
 }).call(this);
