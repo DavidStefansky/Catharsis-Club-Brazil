@@ -1455,7 +1455,7 @@
 		botName: "Catharsis-Bot",
 		language: "portuguese",
 		chatLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/pt-BR.json",
-		scriptLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/extensionn.js",
+		scriptLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/extensionnn.js",
 		playLive: true,
 		roomLock: false,
 		startupCap: 1,
