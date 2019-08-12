@@ -1452,10 +1452,10 @@
 	}
 
 		var settings = {
-		botName: "BlexBot",
+		botName: "Catharsis-Bot",
 		language: "portuguese",
-		chatLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club/master/pt-BR.json",
-		scriptLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club/master/extensionn.js",
+		chatLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/pt-BR.json",
+		scriptLink: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/extensionn.js",
 		playLive: true,
 		roomLock: false,
 		startupCap: 1,
@@ -1507,24 +1507,24 @@
 		etaRestriction: false,
 		welcome: true,
 		opLink: null,
-		rulesLink: "As regras estão sendo atualizadas. Eles aparecerão em breve",
+		rulesLink: "https://t.ly/qjqVD",
 		themeLink: "TEMA LIVRE",
 		fbLink: "https://goo.gl/WUZGzz",
 		youtubeLink: null,
-		discordLink: "https://discord.gg/n5yCvY",
-		website: "https://t.ly/qL3n",
+		discordLink: "https://discord.gg/4H6V7M",
+		website: "https://t.ly/A3gYG",
 		intervalMessages: [],
 		messageInterval: 0,
 		songstats: true,
 		commandLiteral: "!",
 		blacklists: {
 			NSFW: null,
-			OP: "https://raw.githack.com/DavidStefansky/Catharsis-Club/master/OPlist.json",
-			BANNED: "https://raw.githack.com/DavidStefansky/Catharsis-Club/master/BANNEDlist.json"
+			OP: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/OPlist.json",
+			BANNED: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/BANNEDlist.json"
 		}
 	};
 	settings.intervalMessages.push('Join us on discord ! '+settings.discordLink);
 	localStorage.setItem('basicBotsettings', JSON.stringify(settings));
 
-	$.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club/master/basicBot.js", extend);
+	$.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/basicBot.js", extend);
 }).call(this);
