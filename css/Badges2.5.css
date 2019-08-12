@@ -1,0 +1,139 @@
+/* ----- ajusta a foto, tira a borda cinza e deixa maior ---- */
+#chat .badge-box i, .right-side-wrapper #chat .badge-box .icon-arrow-down {
+    transform: scale(1) !important;}
+
+/* Lampião */
+[data-cid^="20574971-"] .badge-box .bdg,
+#user-rollover.id-20574971 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/ZwS8D6l.png");
+}
+/* -Death Gun */
+[data-cid^="27880115-"] .badge-box .bdg,
+#user-rollover.id-27880115 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/VsQDF1a.png");
+}
+/* Neon Genesis Evangelion */
+[data-cid^="25482766-"] .badge-box .bdg,
+#user-rollover.id-25482766 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/598251726352547860/598278023715880975/LJteYjG.gif");
+}
+/* Cyberlady */
+[data-cid^="6507798-"] .badge-box .bdg,
+#user-rollover.id-6507798 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/598252003893706763/601153268843937859/JPEG_20190717_023731.jpg");
+}
+/* fløwer vulgo Mariana */
+[data-cid^="22517314-"] .badge-box .bdg,
+#user-rollover.id-22517314 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.giphy.com/media/xT9IgjHkJczyL3Ujle/giphy.gif");
+}
+/* !Special Agent Frosty */
+[data-cid^="3998944-"] .badge-box .bdg,
+#user-rollover.id-3998944 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://ep00.epimg.net/brasil/imagenes/2016/06/08/politica/1465395610_444617_1465396335_noticia_normal.jpg");
+}
+/* Matheushbb26 */
+[data-cid^="31403444-"] .badge-box .bdg,
+#user-rollover.id-31403444 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/RrSblNp.gif");
+}
+/* Denovuan */
+[data-cid^="3432252-"] .badge-box .bdg,
+#user-rollover.id-3432252 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://imgur.com/gl3IsPk.gif");
+}
+/* m4rianx */
+[data-cid^="31120629-"] .badge-box .bdg,
+#user-rollover.id-31120629 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/601890663130333204/601895616024674325/c15a04fa3576354d478396b38e9fcd90.png");
+}
+/* Al CaponeRJ */
+[data-cid^="4208767-"] .badge-box .bdg,
+#user-rollover.id-4208767 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://media.discordapp.net/attachments/605921601615167511/605951209484058624/fotografia-al-capone-53f7748b1a2aa.png");
+}
+/* Korogui */
+[data-cid^="18919754-"] .badge-box .bdg,
+#user-rollover.id-18919754 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://cdn.discordapp.com/attachments/603170983838351360/603382244836638721/giphy.gif");
+}
+/* МCМLXXXIX */
+[data-cid^="16681992-"] .badge-box .bdg,
+#user-rollover.id-16681992 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://data.whicdn.com/images/280556361/original.gif");
+}
+/* old-user2012 */
+[data-cid^="45592874-"] .badge-box .bdg,
+#user-rollover.id-45592874 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://pbs.twimg.com/profile_images/1232122848/Sapo_doido.gif");
+}
+/* Bruna_Soares */
+[data-cid^="4758109-"] .badge-box .bdg,
+#user-rollover.id-4758109 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/QitbGlG.gif");
+}
+/* Lecin */
+[data-cid^="45697975-"] .badge-box .bdg,
+#user-rollover.id-45697975 .badge-box .bdg {
+    border-radius: 5px;
+    background-size: cover;
+    background-repeat: repeat;
+    background-position: center;
+    background-image: url("https://i.imgur.com/9pdxp3y.gif");
+}

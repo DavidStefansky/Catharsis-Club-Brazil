@@ -1,0 +1,11 @@
+----------- /* Imagem antes do nome */ ------------
+/* Lampião */
+[data-cid^="20574971-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left:21px;
+    background-image: url('https://s3-sa-east-1.amazonaws.com/cdn.br.catarse/uploads/redactor_rails/picture/data/86452/Stand_Lourenco.gif');
+    background-repeat: no-repeat;
+    background-position: 2px center;
+    background-size: 15px auto;
+} 
