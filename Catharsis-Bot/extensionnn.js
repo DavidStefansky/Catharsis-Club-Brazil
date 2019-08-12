@@ -1519,7 +1519,7 @@
 		commandLiteral: "!",
 		blacklists: {
 			NSFW: null,
-			OP: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/OPlist.json",
+			OP: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/OPlist.json",
 			BANNED: "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/BANNEDlist.json"
 		}
 	};
