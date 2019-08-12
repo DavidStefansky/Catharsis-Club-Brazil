@@ -260,7 +260,7 @@
             botName: 'BlexBot',
             language: 'portuguese',
             chatLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/pt-BR.json',
-            scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/basicBot.js',
+            scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
@@ -4527,5 +4527,5 @@
     };
 
     loadChat(basicBot.startup);
-        $.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/entrada2.js");
+        $.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/entrada2.js");
 }).call(this);
