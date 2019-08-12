@@ -2,7 +2,7 @@
     "room": "Catharsis-Club-Brazil",
     "author": "Wawel",
     "icon": null,
-    "css": "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/CCB3.css",
+    "css": "https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/ccb3.css",
     "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
