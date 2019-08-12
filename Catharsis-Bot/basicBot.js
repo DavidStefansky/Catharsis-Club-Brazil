@@ -112,7 +112,7 @@
 
     var loadChat = function(cb) {
         if (!cb) cb = function() {};
-        $.get('https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/langIndex.json', function(json) {
+        $.get('https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/langIndex.json', function(json) {
             var link = basicBot.chatLink;
             if (json !== null && typeof json !== 'undefined') {
                 langIndex = json;
@@ -249,9 +249,9 @@
         status: false,
         name: 'BlexBot',
         loggedInID: null,
-        scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/basicBot.js',
-        cmdLink: 'https://braziloungexclusive.wixsite.com/plug/comandos',
-        chatLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/pt-BR.json',
+        scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/basicBot.js',
+        cmdLink: 'https://t.ly/Lqdnm',
+        chatLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/pt-BR.json',
         chat: null,
         loadChat: loadChat,
         retrieveSettings: retrieveSettings,
@@ -259,8 +259,8 @@
         settings: {
             botName: 'BlexBot',
             language: 'portuguese',
-            chatLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/pt-BR.json',
-            scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/basicBot.js',
+            chatLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/pt-BR.json',
+            scriptLink: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/basicBot.js',
             roomLock: false, // Requires an extension to re-load the script
             startupCap: 1, // 1-200
             startupVolume: 0, // 0-100
@@ -315,20 +315,20 @@
             etaRestriction: false,
             welcome: true,
             opLink: null,
-            rulesLink: "https://goo.gl/gmUfgq",
+            rulesLink: "https://t.ly/qjqVD",
             themeLink: null,
             fbLink: null,
             youtubeLink: null,
             emotesLink: "https://goo.gl/tZZ4G6",         
-            website: "https://goo.gl/GwPe67",
+            website: "https://t.ly/A3gYG",
             intervalMessages: [],
             messageInterval: 5,
             songstats: true,
             commandLiteral: '!',
             blacklists: {
-                NSFW: 'https://raw.githack.com/dawidstefanski375/CB/master/blacklists/NSFWlist.json',
-                OP: 'https://raw.githack.com/dawidstefanski375/CB/master/OPlist.json',
-                BANNED: 'https://raw.githack.com/dawidstefanski375/CB/master/BANNEDlist.json'
+                NSFW: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/blacklists/NSFWlist.json',
+                OP: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/OPlist.json',
+                BANNED: 'https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/BANNEDlist.json'
             }
 },
         room: {
@@ -4527,5 +4527,5 @@
     };
 
     loadChat(basicBot.startup);
-        $.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/entrada2.js");
+        $.getScript("https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/Catharsis-Bot/master/entrada2.js");
 }).call(this);
