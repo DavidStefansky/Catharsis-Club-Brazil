@@ -18,26 +18,6 @@
 	height:166px!important
 }
 
-/*Neffesh*/
-#user-rollover.id-6507798 .meta:before {
-    content: url(https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/img/discord.png);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
-
-#user-rollover.id-6507798 .meta:after{
-	content:'Discord Membro';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-6507798 .meta{
-	height:146px!important
-}
-
 /*Serenita*/
 #user-rollover.id-44331478 .meta:before {
     content: url(https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/img/discord.png);
@@ -98,7 +78,6 @@
 	height:146px!important
 }
 
-
 /*Saorii Kido*/
 #user-rollover.id-44257813 .meta:before {
     content: url(https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/img/discord.png);
@@ -118,27 +97,6 @@
 #user-rollover.id-44257813 .meta{
 	height:146px!important
 }
-
-/*Erick Couto*/
-#user-rollover.id-44475220 .meta:before {
-    content: url(https://raw.githack.com/DavidStefansky/Catharsis-Club-Brazil/master/img/discord.png);
-    top: 120px;
-    left: 110px;
-    position: absolute;
-}
-
-#user-rollover.id-44475220 .meta:after{
-	content:'Discord Membro';
-	white-space:pre-wrap;
-	color:#808691;
-	position:absolute;
-	top:120px;
-	left:130px
-}
-#user-rollover.id-44475220 .meta{
-	height:146px!important
-}
-
 
 /*korogui*/
 #user-rollover.id-18919754 .meta:before {
